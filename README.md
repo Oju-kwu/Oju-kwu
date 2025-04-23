@@ -9,27 +9,28 @@ I am a cybersecurity analyst/Security Operations analyst, adept in monitoring, d
 My journey in cybersecurity exposed me to how attacks happen and how to proactively handle it, and that has inspired me to specifically develop interest in Security Operations Center (SOC) as a Tier 1 Analyst and Incident Response.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | Wazuh and Virustotal Integration Lab|
+| Network Traffic Monitoring and Analysis  | Network Monitoring and Detection Lab|
+| Incident Response Planning and Execution      | SOC Playbook Design and Automation Lab|
+| Mitre Attack and Osint Tools                  | SOC Threat Intelligence Lab|
+| Scripting and Automation for Threat Mitigation | SOC Detection Lab
+| Threat Intelligence                            | SOC Detection Lab|
+| Malware and Phishing Analysis                               | Email Forensic Analysis |
+| Vulnerability Assessment | Vulnerability Management Lab|
 
 ## Tools
 
-### Operating system
+### Operating system proficiency
 <div>
     <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cloud-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white" />
 </div>
 
-### Network
+### Network Traffic Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -68,13 +69,14 @@ My journey in cybersecurity exposed me to how attacks happen and how to proactiv
     <img src="https://img.shields.io/badge/-Wazuh-0277BD?&style=for-the-badge&logoColor=white" />
 </div>
 
-### Threat Hunting/Analysis
+### Threat Intelligence and Analysis
 <div>
    <img src="https://img.shields.io/badge/-TheHive-F2B807?&style=for-the-badge&logoColor=black" />
    <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-FF6D00?&style=for-the-badge&logoColor=white" />
    <img src="https://img.shields.io/badge/-Maltego-13294B?&style=for-the-badge&logo=maltego&logoColor=white" />
    <img src="https://img.shields.io/badge/-Phishtool-EC407A?&style=for-the-badge&logoColor=white" />
    <img src="https://img.shields.io/badge/-URL2PNG-9E9E9E?&style=for-the-badge&logoColor=white" />  
+   <img src="https://img.shields.io/badge/-VirusTotal-3949AB?&style=for-the-badge&logo=virustotal&logoColor=white" />
 </div>
 
 ### Security Compliance and Framework
