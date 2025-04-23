@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/comfort-ukangwobia?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a cybersecurity analyst/Security Operations analyst, adept in monitoring, detecting and handling security vulnerabilities, with knowledge of security principles and frameworks neccessary for an effective Incident Response. 
+I am a cybersecurity analyst / Security Operations analyst, adept in monitoring, detecting and handling security vulnerabilities, with knowledge of security principles and frameworks neccessary for an effective Incident Response. 
 
 ## Objective
 
@@ -98,5 +98,10 @@ My journey in cybersecurity exposed me to how attacks happen and how to proactiv
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SOC Detection Lab
+- Network Monitoring and Detection Lab
+- Wazuh and Virustotal Integration Lab
+- SOC Playbook Design and Automation Lab
+- SOC Threat Intelligence Lab
+- Email Forensic Analysis
+- Vulnerability Management Lab
