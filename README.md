@@ -92,6 +92,7 @@ My journey in cybersecurity exposed me to how attacks happen and how to proactiv
    <img src="https://img.shields.io/badge/-Security%20Analyst%20L1%20(THM)-5F0F40?&style=for-the-badge&logo=tryhackme&logoColor=white" />
    <img src="https://img.shields.io/badge/-CyberGirls%20Training%20Program-6A1B9A?&style=for-the-badge&logoColor=white" />
    <img src="https://img.shields.io/badge/-Professional%20Diploma%20in%20Cybersecurity-37474F?&style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Certified%20in%20Cybersecurity%20(CC)-00ADEF?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
 ## Projects
