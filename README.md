@@ -1,5 +1,5 @@
 # Hello, I'm Comfort
-<a href="https://linkedin.com/https://www.linkedin.com/in/comfort-ukangwobia?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/comfort-ukangwobia?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 I am a cybersecurity analyst/Security Operations analyst, adept in monitoring, detecting and handling security vulnerabilities, with knowledge of security principles and frameworks neccessary for an effective Incident Response. 
