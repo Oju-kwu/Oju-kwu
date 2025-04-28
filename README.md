@@ -17,7 +17,7 @@ My journey in cybersecurity exposed me to how attacks happen and how to proactiv
 | Incident Response Planning and Execution      | SOC Playbook Design and Automation Lab|
 | Mitre Attack and Osint Tools                  | <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab/tree/main">SOC Threat-Intelligence Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Detection Lab
-| Threat Intelligence                            | SOC Detection Lab|
+| Threat Intelligence                            | <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab/tree/main">SOC Threat-Intelligence Lab</a>|
 | Malware and Phishing Analysis                               | Email Forensic Analysis |
 | Vulnerability Assessment | Vulnerability Management Lab|
 
