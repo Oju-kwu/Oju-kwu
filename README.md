@@ -16,7 +16,7 @@ My journey in cybersecurity exposed me to how attacks happen and how to proactiv
 | Network Traffic Monitoring and Analysis  | Network Monitoring and Detection Lab|
 | Incident Response Planning and Execution      | SOC Playbook Design and Automation Lab|
 | Threat hunting and Malware Analysis                  | <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab-1/tree/main">SOC Threat-Intelligence Lab-1 </a>|
-| Scripting and Automation for Threat Mitigation | SOC Detection Lab
+| Scripting and Automation for Threat Mitigation |  <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab-1/tree/main">SOC Threat-Intelligence Lab-1 </a>
 | Threat Intelligence with Wazuh                           | <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab/tree/main">SOC Threat-Intelligence Lab </a>|
 | Malware and Phishing Analysis                               | Email Forensic Analysis |
 | Vulnerability Assessment | Vulnerability Management Lab|
@@ -106,3 +106,4 @@ My journey in cybersecurity exposed me to how attacks happen and how to proactiv
 - <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab-1/tree/main">SOC Threat-Intelligence Lab-1 </a>
 - Email Forensic Analysis
 - Vulnerability Management Lab
+
