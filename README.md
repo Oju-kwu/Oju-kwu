@@ -98,7 +98,6 @@ My journey in cybersecurity exposed me to how attacks happen and how to proactiv
 </div>
 
 ## Projects
-- SOC Detection Lab
 - Network Monitoring and Detection Lab
 - Wazuh and Virustotal Integration Lab
 -  <a href= "https://github.com/Oju-kwu/SOC-Playbook-and-Automation-Lab/tree/main">SOC Playbook Design and Automation Lab </a>
