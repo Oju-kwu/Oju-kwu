@@ -18,7 +18,7 @@ My journey in cybersecurity exposed me to how attacks happen and how to proactiv
 | Threat hunting and Malware Analysis                  | <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab-1/tree/main">SOC Threat-Intelligence Lab-1 </a>|
 | Scripting and Automation for Threat Mitigation |  <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab-1/tree/main">SOC Threat-Intelligence Lab-1 </a>
 | Threat Intelligence with Wazuh                           | <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab/tree/main">SOC Threat-Intelligence Lab </a>|
-| Malware and Phishing Analysis                               | Email Forensic Analysis |
+| Malware and Phishing Analysis                               | <a href= "https://github.com/Oju-kwu/Email-Forensic-Analysis/tree/main"> Email Forensic Analysis </a> |
 | Vulnerability Assessment | Vulnerability Management Lab|
 
 ## Tools
@@ -104,6 +104,6 @@ My journey in cybersecurity exposed me to how attacks happen and how to proactiv
 -  <a href= "https://github.com/Oju-kwu/SOC-Playbook-and-Automation-Lab/tree/main">SOC Playbook Design and Automation Lab </a>
 - <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab/tree/main">SOC Threat-Intelligence Lab</a>
 - <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab-1/tree/main">SOC Threat-Intelligence Lab-1 </a>
-- Email Forensic Analysis
+- <a href= "https://github.com/Oju-kwu/Email-Forensic-Analysis/tree/main"> Email Forensic Analysis </a> 
 - Vulnerability Management Lab
 
