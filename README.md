@@ -12,7 +12,7 @@ My journey in cybersecurity exposed me to how attacks happen and how to proactiv
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Wazuh and Virustotal Integration Lab|
+| SIEM Implementation and Log Analysis          | Splunk Log analysis Lab|
 | Network Traffic Monitoring and Analysis  | Network Monitoring and Detection Lab|
 | Incident Response Planning and Execution      | <a href= "https://github.com/Oju-kwu/SOC-Playbook-and-Automation-Lab/tree/main">SOC Playbook Design and Automation Lab </a>|
 | Threat hunting and Malware Analysis                  | <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab-1/tree/main">SOC Threat-Intelligence Lab-1 </a>|
