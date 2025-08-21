@@ -98,11 +98,10 @@ My journey in cybersecurity exposed me to how attacks happen and how to proactiv
 </div>
 
 ## Projects
-- Network Monitoring and Detection Lab
-- Wazuh and Virustotal Integration Lab
 -  <a href= "https://github.com/Oju-kwu/SOC-Playbook-and-Automation-Lab/tree/main">SOC Playbook Design and Automation Lab </a>
-- <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab/tree/main">SOC Threat-Intelligence Lab</a>
-- <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab-1/tree/main">SOC Threat-Intelligence Lab-1 </a>
-- <a href= "https://github.com/Oju-kwu/Email-Forensic-Analysis/tree/main"> Email Forensic Analysis </a> 
-- <a href= "https://github.com/Oju-kwu/Vulnerability-Management-Lab/tree/main"> Vulnerability Management Lab </a>
+-  <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab/tree/main">SOC Threat-Intelligence Lab</a>
+-  <a href= "https://github.com/Oju-kwu/SOC-Threat-Intelligence-Lab-1/tree/main">SOC Threat-Intelligence Lab-1 </a>
+-  <a href= "https://github.com/Oju-kwu/Email-Forensic-Analysis/tree/main"> Email Forensic Analysis </a> 
+-  <a href= "https://github.com/Oju-kwu/Vulnerability-Management-Lab/tree/main"> Vulnerability Management Lab </a>
+-  <a href= "https://github.com/Oju-kwu/SIEM-Implementation-and-Log-analysis">Splunk Log analysis Lab </a>
 
